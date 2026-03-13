@@ -1,75 +1,114 @@
-# 🔐 Ahmed Berrada - Cybersecurity Enthusiast & Aspiring Developer 🛡️
+<div align="center">
 
-Welcome to my GitHub portfolio! Here, you'll find projects that reflect my passion for cybersecurity, programming, and solving complex challenges. Dive in to explore my journey! 🚀
+<!-- Dynamic Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+[Ahmed+Berrada]+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Finance+Enthusiast)](https://git.io/typing-svg)
 
----
+<!-- Subtitle -->
+*Apprentice @ Siemens Mobility · Future AI/Data Engineer · Building at the intersection of intelligence & markets*
 
-## 🌐 **About Me**
+<br/>
 
-Hello there! 👋 I'm **Ahmed**, a college student and cybersecurity enthusiast who enjoys exploring the world of ethical hacking, securing systems, and building reliable software solutions. My mission is to combine technical expertise with creativity to make the digital world safer and better.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-berrada-293015257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- 🔭 I’m currently working on: **Building, securing and improving a local data center on premise**
-- 🌱 I’m learning: **Everything about Network security, Management tools for companies, Monitoring vulnerabilities and threats**
-- 💬 Ask me about: **Cybersecurity, Networking, Web Development, Data (I'm only getting started CHILL)**
-- ⚡ Fun fact: **Any device connected to the internet is by DEFAULT vulnerable <3 (Sleep well)**
-
----
-
-## 🛠️ **Tech & Tools**
-
-Here’s a snapshot of the technologies and tools I work with:
-
-- **Programming Languages**: Python, Bash, C, Java, Go
-- **Cybersecurity Tools**: Wireshark, Burp Suite, Metasploit, nmap, Fuff ...
-- **Web Technologies**: JavaScript, NodeJS ...
-- **Operating Systems**: Linux (Ubuntu, Kali, Arch...), Windows
-- **Platforms**: GitHub, TryHackMe, Hack The Box, Roadmap.sh
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,git" alt="Tech Stack" />
-</p>
+</div>
 
 ---
 
-## 🌟 **Projects**
+## 🧠 About Me
 
-Here are some of the projects I’ve worked on:
+I'm a validation and automation apprentice at **Siemens Mobility**, currently building practical engineering skills while pursuing my deep passion for **Artificial Intelligence**, **Data Science**, and **Quantitative Finance**. I believe the most exciting opportunities lie at the intersection of these three fields — and I'm on a mission to get there.
 
-### 🕵️‍♂️ **[CyberSecLab: Virtual Hacking Lab](#)**
-- **Description**: A virtual lab for practicing penetration testing and cybersecurity skills.
-- **Tech Stack**: VirtualBox, Kali Linux, Metasploit Framework.
-- **Key Features**:
-  - Simulates real-world penetration testing scenarios.
-  - Preconfigured vulnerable systems for ethical hacking.
-- 🔗 **[Repository Link](#)**
-
-### 🔍 **[Web Vulnerability Scanner](#)**
-- **Description**: A Python tool that scans websites for common vulnerabilities like XSS, SQL Injection, and CSRF.
-- **Tech Stack**: Python, BeautifulSoup, Requests.
-- **Key Features**:
-  - Automated vulnerability detection.
-  - Generates detailed security reports.
-- 🔗 **[Repository Link](#)**
-
-### 🛡️ **[Secure Login System](#)**
-- **Description**: A web application showcasing a secure user authentication system.
-- **Tech Stack**: HTML, CSS, JavaScript, Flask.
-- **Key Features**:
-  - Password hashing with bcrypt.
-  - Protection against common attacks (e.g., CSRF, Brute Force).
-- 🔗 **[Repository Link](#)**
+- 🔭 **Currently working on:** Hands-on engineering projects at Siemens Mobility, applying real-world problem-solving at scale
+- 📚 **Currently learning:** Machine Learning & Deep Learning fundamentals, Financial modeling with Python, and MLOps practices
+- 🤝 **Looking to collaborate on:** Open-source AI/ML projects, financial data pipelines, and anything that bridges data with decision-making
+- 💡 **Ask me about:** Python for data analysis, building ML models from scratch, or navigating the AI/Finance career path
+- 🎯 **Goal:** Land a full-time role in AI, Data Science, or Quantitative Finance after graduation
 
 ---
 
-## 📫 **Contact Me**
+## 🛠️ Tech Stack
 
-Let’s connect! I’d love to collaborate or chat about cybersecurity and tech:
+**Languages**
 
-- **Email**: [aberrada@et.esiea.fr](mailto:aberrada@et.esiea.fr)
-- **LinkedIn**: [https://www.linkedin.com/in/ahmed-berrada-293015257/](#)
-- **TryHackMe Profile**: [tryhackme.com/p/yourusername](#)
-- **Hack The Box**: [hackthebox.com/invite/yourprofile](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Finance / Quant**
+
+![yFinance](https://img.shields.io/badge/yFinance-6236FF?style=for-the-badge&logo=yahoo&logoColor=white)
+![QuantLib](https://img.shields.io/badge/QuantLib-005F73?style=for-the-badge&logo=python&logoColor=white)
+![Bloomberg API](https://img.shields.io/badge/Bloomberg_API-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
+
+**Dev Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-Thank you for visiting my portfolio! Feel free to explore and connect. 🌟
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| 📈 **[AI Stock Sentiment Analyzer](#)** | NLP pipeline that scrapes financial news, performs sentiment analysis, and correlates signals with price movements | `Python` `Transformers` `yFinance` `Pandas` | [Repo](#) · [Demo](#) |
+| 🤖 **[Algorithmic Trading Backtester](#)** | End-to-end backtesting framework for momentum & mean-reversion strategies with performance analytics dashboard | `Python` `Backtrader` `Plotly` `SQL` | [Repo](#) · [Demo](#) |
+| 🧬 **[Credit Risk ML Model](#)** | Machine learning classifier to predict loan default probability, trained on real-world financial datasets with SHAP explainability | `Scikit-Learn` `XGBoost` `SHAP` `Streamlit` | [Repo](#) · [Demo](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Berrada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Berrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Berrada&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to new conversations — whether it's about a cool project, a job opportunity, or just geeking out over AI and markets.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-berrada-293015257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+*⭐ If you find any of my projects useful, consider giving them a star — it means a lot!*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Berrada&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
+</div>
