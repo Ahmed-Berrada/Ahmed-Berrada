@@ -74,23 +74,6 @@ I'm a validation and automation apprentice at **Siemens Mobility**, currently bu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Berrada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Berrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Berrada&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to new conversations — whether it's about a cool project, a job opportunity, or just geeking out over AI and markets.
