@@ -64,16 +64,6 @@ I'm a validation and automation apprentice at **Siemens Mobility**, currently bu
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| 📈 **[AI Stock Sentiment Analyzer](#)** | NLP pipeline that scrapes financial news, performs sentiment analysis, and correlates signals with price movements | `Python` `Transformers` `yFinance` `Pandas` | [Repo](#) · [Demo](#) |
-| 🤖 **[Algorithmic Trading Backtester](#)** | End-to-end backtesting framework for momentum & mean-reversion strategies with performance analytics dashboard | `Python` `Backtrader` `Plotly` `SQL` | [Repo](#) · [Demo](#) |
-| 🧬 **[Credit Risk ML Model](#)** | Machine learning classifier to predict loan default probability, trained on real-world financial datasets with SHAP explainability | `Scikit-Learn` `XGBoost` `SHAP` `Streamlit` | [Repo](#) · [Demo](#) |
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to new conversations — whether it's about a cool project, a job opportunity, or just geeking out over AI and markets.
