@@ -1,87 +1,57 @@
 <div align="center">
 
-<!-- Dynamic Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+[Ahmed+Berrada]+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Finance+Enthusiast)](https://git.io/typing-svg)
+# Ahmed Berrada
 
-<!-- Subtitle -->
-*Apprentice @ Siemens Mobility · Future AI/Data Engineer · Building at the intersection of intelligence & markets*
+**Software & AI engineer · low-latency systems & financial technology**
 
-<br/>
+Apprentice @ Siemens Mobility · ESIEA '27 · Paris
+
+*Available from September 2027: permanent position or graduate programme in IT & data for investment banking, Paris.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-berrada-293015257/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)]((https://www.ahmedberrada.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ahmedberrada.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aberrada@et.esiea.fr)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## Projects
 
-I'm a validation and automation apprentice at **Siemens Mobility**, currently building practical engineering skills while pursuing my deep passion for **Artificial Intelligence**, **Data Science**, and **Quantitative Finance**. I believe the most exciting opportunities lie at the intersection of these three fields — and I'm on a mission to get there.
+| Project | What it is | Highlights |
+|---|---|---|
+| [**Market_data_pipeline**](https://github.com/Ahmed-Berrada/Market_data_pipeline) | Production-style data pipeline for stock and crypto market data | 1-minute OHLCV for 7 stocks, 5-minute prices for 4 crypto assets, TimescaleDB with continuous aggregates, Cloud Run Jobs, FastAPI, Next.js dashboard. [Live demo](https://www.ahmedberrada.com/marketdatapipeline) |
+| [**Risk-Monitoring-Dashboard**](https://github.com/Ahmed-Berrada/Risk-Monitoring-Dashboard) | Portfolio risk dashboard for a 3-asset basket | VaR and CVaR, volatility, drawdown, Sharpe and Sortino, GARCH(1,1) forecasts, HMM regime detection, anomaly detection, 4 historical stress scenarios, 52 metrics computed per refresh |
+| [**lob-engine**](https://github.com/Ahmed-Berrada/lob-engine) | Limit order book matching engine in C++17 | Price-time priority, 3.46 M ops/s, 163 ns median and 996 ns P99 latency, unit tests and CI |
+| [**Monte-Carlo-Option-Pricing**](https://github.com/Ahmed-Berrada/Monte-Carlo-Option-Pricing) | Monte Carlo option pricing under geometric Brownian motion | Python implementation with GPU acceleration through CUDA (CuPy and Numba) |
 
-- 🔭 **Currently working on:** Hands-on engineering projects at Siemens Mobility, applying real-world problem-solving at scale
-- 📚 **Currently learning:** Machine Learning & Deep Learning fundamentals, Financial modeling with Python, and MLOps practices
-- 🤝 **Looking to collaborate on:** Open-source AI/ML projects, financial data pipelines, and anything that bridges data with decision-making
-- 💡 **Ask me about:** Python for data analysis, building ML models from scratch, or navigating the AI/Finance career path
-- 🎯 **Goal:** Land a full-time role in AI, Data Science, or Quantitative Finance after graduation
+## At Siemens Mobility
 
----
+Apprentice in validation and automation for CBTC rail signalling radio: Python tooling and automated tests for radio-protocol validation.
 
-## 🛠️ Tech Stack
+## Tech stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI / Data Science**
+**Data and backend**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-**Finance / Quant**
+**Tools and cloud**
 
-![yFinance](https://img.shields.io/badge/yFinance-6236FF?style=for-the-badge&logo=yahoo&logoColor=white)
-![QuantLib](https://img.shields.io/badge/QuantLib-005F73?style=for-the-badge&logo=python&logoColor=white)
-![Bloomberg API](https://img.shields.io/badge/Bloomberg_API-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
-
-**Dev Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to new conversations — whether it's about a cool project, a job opportunity, or just geeking out over AI and markets.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-berrada-293015257/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<br/>
-
-*⭐ If you find any of my projects useful, consider giving them a star — it means a lot!*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Berrada&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
-</div>
