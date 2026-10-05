@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0b1220,50:16324f,100:1f6f8b&text=Ahmed%20Berrada&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20%26%20AI%20engineer%20%C2%B7%20low-latency%20systems%20%26%20financial%20technology&descColor=cfe8f3&descSize=18&descAlignY=60" width="100%" alt="Ahmed Berrada, Software and AI engineer" />
+<img src="assets/banner.svg" width="100%" alt="Ahmed Berrada, Software and AI engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=3DA9C8&center=true&vCenter=true&width=760&height=40&lines=Apprentice+%40+Siemens+Mobility+%C2%B7+ESIEA+'27+%C2%B7+Paris;C%2B%2B+order+books+%C2%B7+market+data+%C2%B7+risk+analytics;Available+September+2027+%C2%B7+IT+%26+data+for+investment+banking" alt="Apprentice at Siemens Mobility, ESIEA 2027, Paris" />
+<img src="assets/typing.svg" width="780" alt="Apprentice at Siemens Mobility, C++ order books, available September 2027" />
 
 <br/>
 
@@ -118,4 +118,4 @@ Apprentice in validation and automation for CBTC rail signalling radio: Python t
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:1f6f8b,50:16324f,100:0b1220" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
