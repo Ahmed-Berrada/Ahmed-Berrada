@@ -29,7 +29,7 @@ Production-style pipeline for stock and crypto market data: 1-minute OHLCV for 7
 ![PostgreSQL](https://img.shields.io/badge/TimescaleDB-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-[Repository](https://github.com/Ahmed-Berrada/Market_data_pipeline) · [Live demo](https://www.ahmedberrada.com/marketdatapipeline)
+[Repository](https://github.com/Ahmed-Berrada/Market_data_pipeline) · [Live demo](https://marketdatapipeline.ahmedberrada.com/)
 
 </td>
 <td width="50%" valign="top">
